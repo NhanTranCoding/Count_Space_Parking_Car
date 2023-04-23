@@ -6,5 +6,5 @@ https://user-images.githubusercontent.com/129369698/233848056-445407e7-5989-4de0
 ![imgThrDi](https://user-images.githubusercontent.com/129369698/233849353-d2930a1a-0ff9-41f2-b206-9715efe7ad56.png)
 ## Kiểm tra vị trí trống bằng cách đếm số pixel != 0 ở mỗi vị trị đỗ xe
 https://user-images.githubusercontent.com/129369698/233850030-51125a95-77c9-40d2-a567-24e03ff5e63d.mp4
-## Kiểm tra vị trí trống bằng cách đếm số pixel != 0 ở mỗi vị trị đỗ xe
+## Cách chạy code
 Clone code từ githup và chạy file requirement.txt bằng lệnh pip install -r requirement.txt ở dưới terminal hoặc trong commandline
